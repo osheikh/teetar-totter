@@ -26,9 +26,7 @@ npm run build
 npm run lint
 ```
 ## Game Controls
-Use the right and left arrow keys to move the falling blocks. You can also hover over the blocks to see their weights.
-
-LIVE DEMO : 
+Use the right and left arrow keys to move the falling blocks. You can also hover over the blocks to see their weights. 
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).

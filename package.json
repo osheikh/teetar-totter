@@ -5,7 +5,8 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "core-js": "^3.4.4",
@@ -20,6 +21,7 @@
     "babel-eslint": "^10.0.3",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
+    "gh-pages": "^2.2.0",
     "sass": "^1.19.0",
     "sass-loader": "^8.0.0",
     "uniqid": "^5.2.0",
@@ -45,6 +47,7 @@
     "> 1%",
     "last 2 versions"
   ],
+  "homepage": "https://osheikh.github.io/teetar-totter",
   "author": "Omer Sheikh",
   "license": "MIT"
 }
